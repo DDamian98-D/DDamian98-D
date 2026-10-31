@@ -21,7 +21,7 @@
 - [Municipalidad Provincial de Caravelí](https://www.municaraveli.gob.pe) - Portal gubernamental
 
 ## Mi actividad en GitHub
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DDamian98&theme=radical)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DDamian98-D&theme=radical)
 
 ## Contáctame
 - 📫 Email: davdamian98@gmail.com
@@ -29,4 +29,4 @@
 - 📱 WhatsApp: +51931784733
 
 ---
-⭐️ De [DDamian98](https://github.com/DDamian98)
+De [DDamian98](https://github.com/DDamian98-D)
